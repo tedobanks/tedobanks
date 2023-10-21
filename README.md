@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedobanks&label=Profile%20views&color=0e75b6&style=flat" alt="tedobanks" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently learning **JavaScript & it's frameworks**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **bankong.ted@gmail.com**
 
-- ⚡ Fun fact **When I'm not pushing tl GitHub, I'm reading or learning about cars.**
+- ⚡ Fun fact **When I'm not pushing to GitHub, I'm reading or learning about cars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
