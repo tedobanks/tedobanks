@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bankong.ted@gmail.com**
 
-- ⚡ Fun fact **I think life is a computer program.**
+- ⚡ Fun fact **When I'm not pushing tl GitHub, I'm reading or learning about cars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
